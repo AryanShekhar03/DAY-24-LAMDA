@@ -1,0 +1,14 @@
+C:\Users\Shivam Shekhar\source\Day24 LambdaExpression\LambdaExpressionRegex\bin\Debug\netcoreapp3.1\LambdaExpressionRegex.exe
+C:\Users\Shivam Shekhar\source\Day24 LambdaExpression\LambdaExpressionRegex\bin\Debug\netcoreapp3.1\LambdaExpressionRegex.deps.json
+C:\Users\Shivam Shekhar\source\Day24 LambdaExpression\LambdaExpressionRegex\bin\Debug\netcoreapp3.1\LambdaExpressionRegex.runtimeconfig.json
+C:\Users\Shivam Shekhar\source\Day24 LambdaExpression\LambdaExpressionRegex\bin\Debug\netcoreapp3.1\LambdaExpressionRegex.runtimeconfig.dev.json
+C:\Users\Shivam Shekhar\source\Day24 LambdaExpression\LambdaExpressionRegex\bin\Debug\netcoreapp3.1\LambdaExpressionRegex.dll
+C:\Users\Shivam Shekhar\source\Day24 LambdaExpression\LambdaExpressionRegex\bin\Debug\netcoreapp3.1\LambdaExpressionRegex.pdb
+C:\Users\Shivam Shekhar\source\Day24 LambdaExpression\LambdaExpressionRegex\obj\Debug\netcoreapp3.1\LambdaExpressionRegex.csproj.AssemblyReference.cache
+C:\Users\Shivam Shekhar\source\Day24 LambdaExpression\LambdaExpressionRegex\obj\Debug\netcoreapp3.1\LambdaExpressionRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shivam Shekhar\source\Day24 LambdaExpression\LambdaExpressionRegex\obj\Debug\netcoreapp3.1\LambdaExpressionRegex.AssemblyInfoInputs.cache
+C:\Users\Shivam Shekhar\source\Day24 LambdaExpression\LambdaExpressionRegex\obj\Debug\netcoreapp3.1\LambdaExpressionRegex.AssemblyInfo.cs
+C:\Users\Shivam Shekhar\source\Day24 LambdaExpression\LambdaExpressionRegex\obj\Debug\netcoreapp3.1\LambdaExpressionRegex.csproj.CoreCompileInputs.cache
+C:\Users\Shivam Shekhar\source\Day24 LambdaExpression\LambdaExpressionRegex\obj\Debug\netcoreapp3.1\LambdaExpressionRegex.dll
+C:\Users\Shivam Shekhar\source\Day24 LambdaExpression\LambdaExpressionRegex\obj\Debug\netcoreapp3.1\LambdaExpressionRegex.pdb
+C:\Users\Shivam Shekhar\source\Day24 LambdaExpression\LambdaExpressionRegex\obj\Debug\netcoreapp3.1\LambdaExpressionRegex.genruntimeconfig.cache
